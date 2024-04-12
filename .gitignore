@@ -1,0 +1,8 @@
+encrypted_code.py
+build/
+dist/
+encryptedcode.egg-info/
+setup.cfg
+setup.py
+
+__pycache__/
