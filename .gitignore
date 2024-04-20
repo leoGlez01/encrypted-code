@@ -4,6 +4,5 @@ dist/
 encryptedcode.egg-info/
 setup.cfg
 setup.py
-src/
 
 __pycache__/
