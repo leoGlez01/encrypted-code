@@ -17,7 +17,7 @@ A simple example of how to use the library is the following:
 > [!NOTE]
 When you use this library for the first time in your project, it will ask you for a secret phrase which will be hidden from any user from the Windows, Mac or Linux file explorer.
 
-<video autoplay="True"><source src="src/usage.mp4" type="video/mp4"></video>
+<video src="src/usage.mp4" style="aspect-ratio:16/10" autoplay="True" controls="" loop=""><source src="src/usage.mp4" type="video/mp4"></video>
 
 > [!WARNING]
 As time to use the decoding function later it will ask you for the secret phrase that you defined previously. Which is located in your root directory in case you have forgotten it.
