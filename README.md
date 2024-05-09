@@ -1,6 +1,6 @@
 <h1>Encrypted Code - L0123 Algorithm</h1>
 
-> [!INFO]
+> [!NOTE]
 EncryptedCode is a python library accessible to everyone that is under development where I use a new encryption algorithm created by &copy; Software Engineer <a href="https://leoglez.vercel.app/">Leandro Gonzalez Espinosa.</a> and named L0123.
 
 > [!IMPORTANT]
